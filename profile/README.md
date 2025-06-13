@@ -82,7 +82,7 @@ pip install -r requirements.txt
 ```bash
 npm run dev
 ```
-untuk production
+- untuk production
 ```bash
 npm run start
 ```
@@ -91,7 +91,7 @@ npm run start
 ```bash
 npm run start-dev
 ```
-untuk production
+- untuk production
 ```bash
 npm run build
 ```
