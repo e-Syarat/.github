@@ -35,6 +35,7 @@ E-Syarat adalah platform pembelajaran alfabet bahasa isyarat berbasis website ya
 
 
 ##  📖  Cara Penggunaan
+- **Masuk Link : ** https://e-syarat.netlify.app/
 - **Register**: Buat akun baru menggunakan username, email dan password.
 - **Login**: Masuk ke akun yang sudah terdaftar untuk mengakses fitur :
 - 1. **Dictionary**
@@ -43,11 +44,11 @@ E-Syarat adalah platform pembelajaran alfabet bahasa isyarat berbasis website ya
 - 4. **About**
 
 ## 👨‍💻 Tim Development
-| Nama                  | Learning Path              | Current Study                           |
-|-----------------------|----------------------------|------------------------------------------|
-| Muhamad Fahmi Aulia Noor | Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung |
-| Muhammad Akmal Maulana   | Machine Learning | Informatika @ Universitas Siliwangi |
-| Zeni Ramadan           |  Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung   |
-| Ayi Muhamad Nasrulloh           | Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung |
-| Daffa Haidar Farras  | Machine Learning   | Informatika @ Universitas Siliwangi |
-| Hilda Oktaviani  | Machine Learning   | Informatika @ Universitas Siliwangi |
+| Nama                  | Learning Path              | Current Study                           | Role                     |
+|-----------------------|----------------------------|------------------------------------------|------------------------------------------|
+| Muhamad Fahmi Aulia Noor | Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung | Backend & Project Manager|
+| Muhammad Akmal Maulana   | Machine Learning | Informatika @ Universitas Siliwangi | Machine Learning engineer | 
+| Zeni Ramadan           |  Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung   | Frontend dev |
+| Ayi Muhamad Nasrulloh           | Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung | Frontend dev |
+| Daffa Haidar Farras  | Machine Learning   | Informatika @ Universitas Siliwangi | Machine Learning engineer |
+| Hilda Oktaviani  | Machine Learning   | Informatika @ Universitas Siliwangi | Machine Learning engineer |
