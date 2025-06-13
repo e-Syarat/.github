@@ -52,3 +52,57 @@ E-Syarat adalah platform pembelajaran alfabet bahasa isyarat berbasis website ya
 | Ayi Muhamad Nasrulloh           | Frontend dan Backend | Informatika @ Sekolah Tinggi Teknologi Cipasung | Frontend dev |
 | Daffa Haidar Farras  | Machine Learning   | Informatika @ Universitas Siliwangi | Machine Learning engineer |
 | Hilda Oktaviani  | Machine Learning   | Informatika @ Universitas Siliwangi | Machine Learning engineer |
+
+## 🔁 Replika
+**Jika ingin mencoba untuk mereplika project ini, Anda bisa mengikuti langkah-langkah berikut:**
+
+### 1. 🔽 Clone Repository
+- 📦 [Repo Model Machine Learning](https://github.com/e-Syarat/Machine-Learning)
+- 🔧 [Repo Backend](https://github.com/e-Syarat/Back-End)
+- 🎨 [Repo Frontend](https://github.com/e-Syarat/Front-End)
+
+### 2. 📦 Install Dependensi
+
+#### 🔧 Backend & Frontend
+```bash
+npm install
+```
+#### 🤖 Model Machine Learning
+**via CMD/Terminal**
+```bash
+pip install -r requirements.txt
+```
+**via Jupyter/Google Colab**
+```bash
+!pip install -r requirements.txt
+```
+#### 🚀 Menjalankan Aplikasi
+**Backend**
+untuk development
+```bash
+npm run dev
+```
+untuk production
+```bash
+npm run start
+```
+**Frontend**
+untuk development
+```bash
+npm start-dev
+```
+untuk production
+```bash
+npm run build
+```
+**Machine Learning**
+import model
+```bash
+tensorflowjs_converter \
+  --input_format=tf_saved_model \
+  --output_format=tfjs_graph_model \
+  sample_data/tf_model/ sample_data/tfjs_model/
+```
+
+
+
