@@ -78,25 +78,25 @@ pip install -r requirements.txt
 ```
 #### 🚀 Menjalankan Aplikasi
 **Backend**
--untuk development
+- untuk development
 ```bash
 npm run dev
 ```
--untuk production
+untuk production
 ```bash
 npm run start
 ```
 **Frontend**
--untuk development
+- untuk development
 ```bash
 npm run start-dev
 ```
--untuk production
+untuk production
 ```bash
 npm run build
 ```
 **Machine Learning**
--import model
+- import model
 ```bash
 tensorflowjs_converter \
   --input_format=tf_saved_model \
