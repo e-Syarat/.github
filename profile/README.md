@@ -35,7 +35,7 @@ E-Syarat adalah platform pembelajaran alfabet bahasa isyarat berbasis website ya
 
 
 ##  📖  Cara Penggunaan
-- **Masuk Link : **[e-Syarat](https://e-syarat.netlify.app/)
+- **Masuk Link :** [e-Syarat](https://e-syarat.netlify.app/)
 - **Register**: Buat akun baru menggunakan username, email dan password.
 - **Login**: Masuk ke akun yang sudah terdaftar untuk mengakses fitur :
 - 1. **Dictionary**
